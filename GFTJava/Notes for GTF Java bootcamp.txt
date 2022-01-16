@@ -1,1 +1,3 @@
 #Notes for GTF Java bootcamp
+
+- Git and Github as tools for learning and sharing. 
