@@ -18,6 +18,7 @@ public class practicing {
         System.out.println(g);
 
 
+
     }
 
 
