@@ -10,6 +10,7 @@ public class Results {
         methodCalc.multiply(3,7.5);
         methodCalc.divide(30, 10);
 
+
     }
 
 
