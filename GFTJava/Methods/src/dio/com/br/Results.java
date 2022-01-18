@@ -35,6 +35,7 @@ public class Results {
         Loan.calculator(1000, Loan.getTwoParcels());
         Loan.calculator(1000, Loan.getThreeParcels());
         Loan.calculator(1000, Loan.getFourParcels());
+        Loan.calculator(1000, 5);
 
 
 
